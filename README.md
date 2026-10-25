@@ -1,15 +1,1 @@
-# Mental-Score
-# Mental-Score
-# Mental-Score
-# Mental_Score_Predictor
-# Mental_Score_Predictor
-# Mental_Score_Predictor
-# Mental_Score_Predictor
-# Mental_Score_Predictor
-# Mental_Score_Predictor
-# Mental_Score_Predictor
-# Mental_Health_Score
-# Mental_Health_Score
-# Mental_Health_Score
-# Mental_Health_Score
-# Mental_Health_Score
+
