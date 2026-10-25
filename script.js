@@ -1,6 +1,6 @@
 (() => {
   // ---- Configuration ----
-  const API_BASE = "http://127.0.0.1:8000";
+  const API_BASE = "https://mental-health-score-qvyd.onrender.com";
   const MAX_SCORE = 10;          // upper end of the model's score scale
   const TIMEOUT_MS = 15000;
 
